@@ -6,6 +6,7 @@ Projeto desenvolvido para fins didáticos da matérias de Programação para Int
 - Frameword Django 2.2
 - Sistema operacional utilizado: Ubuntu
 
-## Link para a aplicação funcionando: 
+## Link para a aplicação funcionando online: 
+https://youtu.be/WBPCMzxJTQk
 
 ## Instruções para a implantação da aplicação do zero:
