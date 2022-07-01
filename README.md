@@ -8,7 +8,7 @@ Projeto desenvolvido para fins didáticos da matérias de Programação para Int
 
 ## Link para a aplicação funcionando online: 
 https://youtu.be/WBPCMzxJTQk
-### Link para a aplicação:
+### - Link para a aplicação:
 http://kalitasouza1.pythonanywhere.com/
 
 ## Instruções para a implantação da aplicação do zero:
