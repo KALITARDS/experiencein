@@ -12,3 +12,5 @@ https://youtu.be/WBPCMzxJTQk
 http://kalitasouza1.pythonanywhere.com/
 
 ## Instruções para a implantação da aplicação do zero:
+
+# ... em desenvolvimento...
